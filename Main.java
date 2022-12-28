@@ -1,3 +1,4 @@
+
 package exerciciospropostos02;
 
 import java.util.Scanner;
